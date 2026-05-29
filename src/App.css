@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: 'Bespoke';
+    src: url('/fonts/BespokeSerif-Variable.ttf') format('truetype');
+}
+body {
+    font-family: monospace;
+    background-color: rgb(2 6 23); /* slate-950 */
+    color: white;
+}
