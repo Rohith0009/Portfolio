@@ -4,7 +4,7 @@ const Skills = () => {
         <div className="w-full">
             <h1 className="text-4xl font-bold text-gray-200 text-center">My Skills</h1>
             <div className="w-3/4 md:w-2/3 lg:w-1/2  mx-auto">
-                <p className="text-center text-base font-semibold my-4 text-gray-300">My technical expertise spans a wide range of categories, allowing me to build performant apps and websites for smartphones, tablets, and desktops.</p>
+                <p className="text-center text-base font-semibold my-4 text-gray-300">My technical expertise spans a wide range of categories, allowing me to build performant and reliable apps and websites for smartphones, tablets, and desktops.</p>
                 <div className="grid grid-cols-4 sm:grid-cols-5 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5 gap-4">
                     <SkillCard cardParams={{name:"Python", img:"python.png"}}/>
                     <SkillCard cardParams={{name:"C++", img:"c-.png"}}/>
